@@ -24,7 +24,7 @@ public class AlcoholMenu {
             System.out.println("7. 제품 삭제 ");
             System.out.println("0. 프로그램 종료 ");
 
-            System.out.println("메뉴 선택 : ");
+            System.out.print("메뉴 선택 : ");
             int menu = sc.nextInt();
             sc.nextLine();
 
